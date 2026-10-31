@@ -1,0 +1,23 @@
+# Gradle and Kotlin caches
+.gradle/
+.kotlin/
+build/
+out/
+
+# IDE and local configuration
+.idea/
+*.iml
+.vscode/
+local.properties
+
+# Generated binaries and delivery archives
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+*.zip
+*.rar
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
